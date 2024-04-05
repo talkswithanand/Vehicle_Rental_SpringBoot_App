@@ -23,7 +23,7 @@ Welcome to the Car Rental Application! This application allows users to browse a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MdShayequeZiya/Vehicle_Rental_SpringBoot_Application.git
+   [git clone https://github.com/talkswithanand/Vehicle_Rental_SpringBoot_App.git
 
 2. **Configure the database:**
 
